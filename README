@@ -1,0 +1,8 @@
+mirror of https://github.com/mesonbuild/meson/tree/master/data/syntax-highlighting/vim
+
+at the commit: https://github.com/mesonbuild/meson/commit/558a7bc6ff875f233b2ab7531e59e296b98032bd
+
+ftdetect sets the filetype
+ftplugin sets Meson indentation rules
+indent does Meson indentation
+syntax does Meson syntax highlighting
